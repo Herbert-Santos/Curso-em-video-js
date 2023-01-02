@@ -1,0 +1,41 @@
+JAVASCRIPT
+
+Baixar = vscode - node - google crome
+Livros = Javascript 
+
+Scripts em javascript
+Tag para programar em javascript dentro do html = <script></script>
+
+DATA TYPES EM JAVASCRIPT
+typeof
+
+Const
+Var
+Let
+
+Operadores em Javascript = + - % * =
+Logicos
+Operacionais
+Orden de precedencia
+Contatenação = +
+
+EXTENÇÃO PARA O DOM
+Aprenda pelo menos 3 bibliotecas de javascript - Para que acessar o dom? - Reduzir ao maximo usar o dom
+Watch in crome
+Node exec
+Arvore dom
+Como selecionar elementos dom
+EVENTOS DOM---------------------
+
+Condições em Javascript
+extruturas condicionadas
+Condição conposta
+Condição aninhadas
+Condição multipla = Switch, sempre usar break no final do bloco
+
+
+Modelo de site
+Body
+Header
+Section - divs
+Footer
